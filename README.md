@@ -45,14 +45,6 @@ When I’m not doing serious dev stuff, I love playing around with creative proj
 
 ---
 
-## 📊 GitHub Stats
-
-![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Find Me Elsewhere
 
 - 🌍 [Portfolio Website](https://your-portfolio.com)

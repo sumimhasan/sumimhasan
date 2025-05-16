@@ -1,11 +1,9 @@
 # 💫 About Me
 
-<img src="https://images.unsplash.com/photo-1537432376769-00a5f3c16208?auto=format&fit=crop&w=1350&q=80" alt="coding wallpaper" width="100%" height="auto"/>
-
 Hey there! I'm **Joy**, a high school student from 🇧🇩 Bangladesh and a passionate **AI & Web Developer** on a mission to build smart, impactful tech.  
 I’m all about clean code, clever logic, and making the web (and the world 👀) a more intelligent place.
 
-- 🔭 I’m currently focused on: **AI models**, **full-stack web apps**, and experimenting with **Many Cool Things**
+- 🔭 I’m currently focused on: **AI models**, **full-stack web apps**, and working on  **My Ai Saas Business**
 - 🌱 Learning & loving: **Node.js**, advanced **JavaScript**, and **deep learning** frameworks
 - 💼 Open to do projects, collaborations, and internships or partnerships
 - 💬 Ask me about web development, AI workflows, or anything techy — I love helping out!
@@ -15,19 +13,22 @@ I’m all about clean code, clever logic, and making the web (and the world 👀
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
+### Web & General Dev  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
 
-### Web & General Dev
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-fcc72e?logo=huggingface&logoColor=black&style=flat)
+### AI & Machine Learning  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)  
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-fcc72e?logo=huggingface&logoColor=black&style=flat)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)  
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat)  
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat)  
 
 
 ---

@@ -47,7 +47,7 @@ When I’m not doing serious dev stuff, I love playing around with creative proj
 
 ## 🌐 Find Me Elsewhere
 
-- 🌍 [Portfolio Website](https://your-portfolio.com)
+- 🌍 [Personal Website](https://your-portfolio.com)
 - 💬 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🐦 [Twitter/X](https://twitter.com/yourhandle)
 - 📘 [Facebook](https://facebook.com/yourusername)

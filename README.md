@@ -1,30 +1,50 @@
-# 💫 About Me:
+# 💫 About Me
 
-Hey there! I'm **Joy**, a high school student from 🇧🇩 Bangladesh and a passionate self-taught developer.  
-I ❤️ creating cool websites and games, and I'm always leveling up my dev skills.  
+<img src="https://images.unsplash.com/photo-1537432376769-00a5f3c16208?auto=format&fit=crop&w=1350&q=80" alt="coding wallpaper" width="100%" height="auto"/>
 
-- 🔭 I’m currently working on: Web apps, 2D/3D games & a mini OS project 👀  
-- 🌱 I’m learning: Node.js, Unity, Blender, and AI stuff 🧠  
-- 💼 I’m looking for freelance gigs and collabs!  
-- 💬 Ask me about web dev, game dev, or just say hi 🥰  
-- ⚡ Fun Fact: I dream of becoming a top-rated dev & building my own game studio one day 🎮
+Hey there! I'm **Joy**, a high school student from 🇧🇩 Bangladesh and a passionate **AI & Web Developer** on a mission to build smart, impactful tech.  
+I’m all about clean code, clever logic, and making the web (and the world 👀) a more intelligent place.
 
----
-
-## 💻 Tech Stack:
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)  
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+- 🔭 I’m currently focused on: **AI models**, **full-stack web apps**, and experimenting with **Many Cool Things**
+- 🌱 Learning & loving: **Node.js**, advanced **JavaScript**, and **deep learning** frameworks
+- 💼 Open to do projects, collaborations, and internships or partnerships
+- 💬 Ask me about web development, AI workflows, or anything techy — I love helping out!
+- ⚡ Fun Fact: I’m super into innovation and dream of building tools that actually *change the game* 🚀
 
 ---
 
-## 📊 GitHub Stats:
+## 💻 Tech Stack
+
+## 💻 Tech Stack
+
+### Web & General Dev
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-fcc72e?logo=huggingface&logoColor=black&style=flat)
+
+
+---
+
+## 🌟 Extra Hobbies
+
+When I’m not doing serious dev stuff, I love playing around with creative projects that spark my curiosity:
+
+- 🕹️ Tinkering with **2D/3D game dev** in Unity & Blender
+- 🎨 Exploring **digital art** and 3D modeling
+- 🛠️ Building a **mini OS** in C (for fun, challenge & bragging rights 😌)
+
+> It’s not distraction—it’s *diverse potential* 🌈💡
+
+---
+
+## 📊 GitHub Stats
 
 ![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 
@@ -32,12 +52,12 @@ I ❤️ creating cool websites and games, and I'm always leveling up my dev ski
 
 ---
 
-## 🌐 Find Me Elsewhere:
+## 🌐 Find Me Elsewhere
 
 - 🌍 [Portfolio Website](https://your-portfolio.com)
 - 💬 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🐦 [Twitter/X](https://twitter.com/yourhandle)
-- 🎮 [Itch.io](https://yourusername.itch.io)
+- 📘 [Facebook](https://facebook.com/yourusername)
 - 📫 Reach me: your.email@example.com
 
 ---

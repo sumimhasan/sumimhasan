@@ -1,5 +1,4 @@
-<!-- Cover Image -->
-![Cover Image](https://img.freepik.com/premium-photo/laptop-with-code-screen-cup-coffee-plant-turquoise-desk-symbolizing_924727-79677.jpg)
+<img src="https://media.licdn.com/dms/image/v2/C5116AQEn49YZRUNypg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1547923649308?e=2147483647&v=beta&t=N5MBTTOQBpI4eKV-lfK5wBx3Xy57L-jJo8PiQp5xQaw" alt="Cover Image" width="100%" />
 
 # 💫 About Me
 

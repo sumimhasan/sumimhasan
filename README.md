@@ -1,3 +1,6 @@
+<!-- Cover Image -->
+![Cover Image](https://img.freepik.com/premium-photo/laptop-with-code-screen-cup-coffee-plant-turquoise-desk-symbolizing_924727-79677.jpg)
+
 # 💫 About Me
 
 Hey! I'm **Joy**, a high schooler from 🇧🇩 Bangladesh, diving deep into **AI & Web Dev**. I’m all about writing clean code, solving puzzles, and building tech that actually *matters*.  

@@ -3,9 +3,8 @@
 Hey! I'm **Joy**, a high schooler from 🇧🇩 Bangladesh, diving deep into **AI & Web Dev**. I’m all about writing clean code, solving puzzles, and building tech that actually *matters*.  
 
 - 🔭 Currently: working on **AI models**, **full-stack apps**, and my **AI SaaS biz**  
-- 🌱 Learning: **Node.js**, advanced **JavaScript**, and **deep learning**  
 - 💼 Open for projects, collabs, internships, or just cool tech talks  
-- ⚡ Fun fact: Dreaming of creating tools that *change the game* 🚀
+- ⚡ Dreaming of creating tools that *change the game* 🚀
 
 ## 🌐 Find Me
 

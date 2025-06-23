@@ -5,7 +5,7 @@ Hey! I'm Sumim Hasan aka **Joy**, from Bangladesh, diving deep into **AI & Web D
 - 🌍 [Website](https://your-portfolio.com)  
 - 💬 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 🐦 [Twitter/X](https://twitter.com/yourhandle)  
-- 📫 Email: your.email@example.com  
+- 📫 Email: sumimhasanjoy@gmail.com 
 ---
 > “Code like a poet, debug like a detective 🕵️‍♀️✨”
 

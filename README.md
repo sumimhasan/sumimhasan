@@ -6,10 +6,10 @@ Clean code, clever solutions, and building tech that *actually matters* — that
 
 ---
 ## 🚀 Skills & Passions
-- ![AI](https://img.shields.io/badge/-AI-black?style=flat&logo=tensorflow&logoColor=white) **AI/ML Development**: Creating smarter, adaptive systems  
-- ![Web Dev](https://img.shields.io/badge/-Web%20Dev-black?style=flat&logo=react&logoColor=61DAFB) **Full-Stack Web Dev**: From pixel-perfect UI to robust backend logic  
-- ![Cloud](https://img.shields.io/badge/-Cloud-black?style=flat&logo=cloudflare&logoColor=orange) **Cloud Technologies**: Deploying and scaling applications globally  
-- ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-black?style=flat&logo=openai&logoColor=white) **Agentic AI**: Building autonomous, goal-driven AI systems
+- ![](https://img.shields.io/badge/-AI-black?style=flat&logo=tensorflow&logoColor=white) **AI/ML Development**: Creating smarter, adaptive systems  
+- ![](https://img.shields.io/badge/-Web%20Dev-black?style=flat&logo=react&logoColor=61DAFB) **Full-Stack Web Dev**: From pixel-perfect UI to robust backend logic  
+- ![](https://img.shields.io/badge/-Cloud-black?style=flat&logo=cloudflare&logoColor=orange) **Cloud Technologies**: Deploying and scaling applications globally  
+- ![](https://img.shields.io/badge/-Agentic%20AI-black?style=flat&logo=openai&logoColor=white) **Agentic AI**: Building autonomous, goal-driven AI systems
 
 ---
 

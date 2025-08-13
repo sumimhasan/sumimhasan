@@ -1,16 +1,16 @@
 # $About Myself
 
-Hey! I'm **Sumim Hasan** — aka **Joy** — from **Bangladesh** 🇧🇩.  
-I’m diving deep into the worlds of **Artificial Intelligence** 🤖 and **Web Development** 🌐.  
+Hey! I'm **Sumim Hasan** — aka **Joy** — from **Bangladesh** .  
+I’m diving deep into the worlds of **Artificial Intelligence**  and **Web Development** .  
 Clean code, clever solutions, and building tech that *actually matters* — that’s my game.  
 
 ---
-
 ## 🚀 Skills & Passions
-- **AI/ML Development**: Creating smarter, adaptive systems  
-- **Full-Stack Web Dev**: From pixel-perfect UI to robust backend logic  
-- **Cloud Technologies**: Deploying and scaling applications globally ☁️  
-- **Agentic AI**: Building autonomous, goal-driven AI systems 🤖
+- **AI/ML Development** ![AI](https://img.shields.io/badge/-AI-black?style=flat&logo=tensorflow&logoColor=white): Creating smarter, adaptive systems  
+- **Full-Stack Web Dev** ![Web Dev](https://img.shields.io/badge/-Web%20Dev-black?style=flat&logo=react&logoColor=61DAFB): From pixel-perfect UI to robust backend logic  
+- **Cloud Technologies** ![Cloud](https://img.shields.io/badge/-Cloud-black?style=flat&logo=cloudflare&logoColor=orange): Deploying and scaling applications globally  
+- **Agentic AI** ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-black?style=flat&logo=openai&logoColor=white): Building autonomous, goal-driven AI systems
+
 
 ---
 

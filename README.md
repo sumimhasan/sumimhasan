@@ -9,8 +9,8 @@ Clean code, clever solutions, and building tech that *actually matters* — that
 ## 🚀 Skills & Passions
 - **AI/ML Development**: Creating smarter, adaptive systems  
 - **Full-Stack Web Dev**: From pixel-perfect UI to robust backend logic  
-- **Problem Solving**: Turning tricky challenges into elegant solutions  
-- **Open Source**: Learning, sharing, and growing with the community  
+- **Cloud Technologies**: Deploying and scaling applications globally ☁️  
+- **Agentic AI**: Building autonomous, goal-driven AI systems 🤖
 
 ---
 
@@ -21,14 +21,14 @@ Clean code, clever solutions, and building tech that *actually matters* — that
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
 
 ---
 

@@ -39,7 +39,7 @@ Clean code, clever solutions, and building tech that *actually matters* — that
 
 ---
 
-> 💡 *"Code like a poet, debug like a detective 🕵️‍♀️✨"*  
+>  *"Code like a poet, debug like a detective "*  
 > &mdash; _My daily reminder_
 
 ---

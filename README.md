@@ -33,7 +33,7 @@ Clean code, clever solutions, and building tech that *actually matters* — that
 
 ## 🌐 Connect with Me
 - 🌍 **Website**: [sumimhasansite.vercel.app](https://sumimhasansite.vercel.app/)  
-- 💼 **LinkedIn**: [facebook.com/codewithjoy](https://www.facebook.com/codewithjoy)  
+- 💼 **FaceBook**: [facebook.com/codewithjoy](https://www.facebook.com/codewithjoy)  
 - 🐦 **Twitter/X**: [@SumimHasan](https://x.com/SumimHasan)  
 - 📫 **Email**: `sumimhasanjoy@gmail.com`  
 

@@ -1,10 +1,11 @@
 # $About Myself
 
-Hey! I'm **Sumim Hasan** — aka **Joy** — from **Bangladesh** .  
-I’m diving deep into the worlds of **Artificial Intelligence**  and **Web Development** .  
+Hey! I'm **Sumim Hasan** — aka **Joy** — from **Bangladesh**.  
+I’m diving deep into the worlds of **Artificial Intelligence** and **Web Development**.  
 Clean code, clever solutions, and building tech that *actually matters* — that’s my game.  
 
 ---
+
 ## 🚀 Skills & Passions
 - ![](https://img.shields.io/badge/-AI-black?style=flat&logo=tensorflow&logoColor=white) **AI/ML Development**: Creating smarter, adaptive systems  
 - ![](https://img.shields.io/badge/-Web%20Dev-black?style=flat&logo=react&logoColor=61DAFB) **Full-Stack Web Dev**: From pixel-perfect UI to robust backend logic  
@@ -15,7 +16,6 @@ Clean code, clever solutions, and building tech that *actually matters* — that
 
 ## 🛠 Tech Stack
 
-<!-- Easily editable: just change the URL text after "badge/" -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,20 +28,28 @@ Clean code, clever solutions, and building tech that *actually matters* — that
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+![Sumim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumimhasan&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumimhasan&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
 - 🌍 **Website**: [sumimhasansite.vercel.app](https://sumimhasansite.vercel.app/)  
-- 💼 **FaceBook**: [facebook.com/codewithjoy](https://www.facebook.com/codewithjoy)  
+- 💼 **Facebook**: [facebook.com/codewithjoy](https://www.facebook.com/codewithjoy)  
 - 🐦 **Twitter/X**: [@SumimHasan](https://x.com/SumimHasan)  
 - 📫 **Email**: `sumimhasanjoy@gmail.com`  
 
 ---
 
->  *"Code like a poet, debug like a detective "*  
+>  *"Code like a poet, debug like a detective"*  
 > &mdash; _My daily reminder_
 
 ---
 
-
+## ✨ Fun Badges
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sumimhasan.sumimhasan)
+![Profile Views](https://komarev.com/ghpvc/?username=sumimhasan&color=blue)

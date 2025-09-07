@@ -29,14 +29,6 @@ Clean code, clever solutions, and building tech that *actually matters* — that
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Sumim's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumimhasan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumimhasan&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 - 🌍 **Website**: [sumimhasansite.vercel.app](https://sumimhasansite.vercel.app/)  
 - 💼 **Facebook**: [facebook.com/codewithjoy](https://www.facebook.com/codewithjoy)  

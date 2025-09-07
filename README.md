@@ -50,6 +50,3 @@ Clean code, clever solutions, and building tech that *actually matters* — that
 
 ---
 
-## ✨ Fun Badges
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sumimhasan.sumimhasan)
-![Profile Views](https://komarev.com/ghpvc/?username=sumimhasan&color=blue)

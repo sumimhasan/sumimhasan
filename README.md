@@ -29,6 +29,10 @@ Clever solutions and building tech that *actually matters* — that’s my game.
 
 ---
 
+## 📅 GitHub Contributions
+![Sumim's Contributions](https://github.com/sumimhasan.png?tab=overview&from=2025-01-01&to=2025-12-31)
+
+
 
 ## 📂 Favorite / Key Projects
 

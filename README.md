@@ -27,16 +27,8 @@ Clever solutions and building tech that *actually matters* — that’s my game.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-## 📅 GitHub Contributions
 
-![Sumim's Contributions](https://activity-graph.herokuapp.com/graph?username=sumimhasan&theme=react-dark&hide_border=true)
-
-
-
-
-
-## 📂 Favorite / Key Projects
+## 📂 My Key Projects
 
 | FinesteinLM | Greenmany | Agentic AI Bots |
 |-------------|-----------|----------------|

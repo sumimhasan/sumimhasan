@@ -28,13 +28,29 @@ Clever solutions and building tech that *actually matters* — that’s my game.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+
 ## 📂 Favorite / Key Projects
 
 | FinesteinLM | Greenmany | Agentic AI Bots |
 |-------------|-----------|----------------|
 | 🔹 Domain-specific AI model optimized for efficiency and precision<br>🔹 Implements LoRA & QLoRA for faster training and smaller footprint<br>🔹 [GitHub Repo](https://github.com/username/FinesteinLM) | 🔹 Full-stack web platform for sustainable living projects<br>🔹 Built with **React**, **Node.js**, **MongoDB**, and **TailwindCSS**<br>🔹 [GitHub Repo](https://github.com/username/Greenmany) | 🔹 Autonomous, goal-driven AI agents capable of task automation<br>🔹 Focused on real-world problem solving and research assistance<br>🔹 [GitHub Repo](https://github.com/username/AgenticAI) |
 
+## 🛠 Side Hobbies
 
+I love exploring the low-level side of computing and hardware. My hobbies include:  
+
+- 🔹 **Low-Level Programming**: Writing optimized code in **C** and **Assembly**, understanding memory and processor intricacies  
+- 🔹 **Digital Design & Verilog**: Designing and simulating digital circuits, creating simple ALUs, FSMs, and learning FPGA development  
+- 🔹 **Chip & Hardware Design**: Studying microarchitecture, SOC design, and building hobby projects with microcontrollers  
+- 🔹 **Embedded Systems**: Combining hardware and software to make small, efficient, and powerful devices  
+- 🔹 **Electronics & Robotics**: Experimenting with sensors, motors, and electronics to bring ideas to life  
+- 🔹 **Performance Optimization**: Exploring how software interacts with hardware for maximum efficiency  
+
+This is my playground outside the high-level AI and web world — diving deep into how computers actually work from the ground up!  
+
+---
+---
 ## 🌐 Connect with Me
 - 🌍 **Website**: [sumimhasansite.vercel.app](https://sumimhasansite.vercel.app/)  
 - 💼 **Facebook**: [facebook.com/codewithjoy](https://www.facebook.com/codewithjoy)  

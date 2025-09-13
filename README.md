@@ -29,25 +29,12 @@ Clever solutions and building tech that *actually matters* — that’s my game.
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ---
-
 ## 📂 Favorite / Key Projects
 
-### 1. **FinesteinLM**
-- 🔹 Domain-specific AI model optimized for efficiency and precision  
-- 🔹 Implements LoRA & QLoRA for faster training and smaller footprint  
-- 🔹 [GitHub Repo](https://github.com/username/FinesteinLM)
+| FinesteinLM | Greenmany | Agentic AI Bots |
+|-------------|-----------|----------------|
+| 🔹 Domain-specific AI model optimized for efficiency and precision<br>🔹 Implements LoRA & QLoRA for faster training and smaller footprint<br>🔹 [GitHub Repo](https://github.com/username/FinesteinLM) | 🔹 Full-stack web platform for sustainable living projects<br>🔹 Built with **React**, **Node.js**, **MongoDB**, and **TailwindCSS**<br>🔹 [GitHub Repo](https://github.com/username/Greenmany) | 🔹 Autonomous, goal-driven AI agents capable of task automation<br>🔹 Focused on real-world problem solving and research assistance<br>🔹 [GitHub Repo](https://github.com/username/AgenticAI) |
 
-### 2. **Greenmany**
-- 🔹 Full-stack web platform for sustainable living projects  
-- 🔹 Built with **React**, **Node.js**, **MongoDB**, and **TailwindCSS**  
-- 🔹 [GitHub Repo](https://github.com/username/Greenmany)
-
-### 3. **Agentic AI Bots**
-- 🔹 Autonomous, goal-driven AI agents capable of task automation  
-- 🔹 Focused on real-world problem solving and research assistance  
-- 🔹 [GitHub Repo](https://github.com/username/AgenticAI)
-
----
 
 ## 🌐 Connect with Me
 - 🌍 **Website**: [sumimhasansite.vercel.app](https://sumimhasansite.vercel.app/)  

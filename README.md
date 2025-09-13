@@ -2,7 +2,7 @@
 
 Hey! I'm **Sumim Hasan** — aka **Joy** — from **Bangladesh**.  
 I’m diving deep into the worlds of **Artificial Intelligence** and **Web Development**.  
-Clean code, clever solutions, and building tech that *actually matters* — that’s my game.  
+Clever solutions and building tech that *actually matters* — that’s my game.  
 
 ---
 

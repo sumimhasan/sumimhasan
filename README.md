@@ -30,13 +30,15 @@ Clever solutions and building tech that *actually matters* — that’s my game.
 
 ## 📂 My Key Projects
 
-| FinesteinLM | Greenmany | Agentic AI Bots |
-|-------------|-----------|----------------|
-| 🔹 Domain-specific AI model optimized for efficiency and precision<br>🔹 Implements LoRA & QLoRA for faster training and smaller footprint<br>🔹 [GitHub Repo](https://github.com/username/FinesteinLM) | 🔹 Full-stack web platform for sustainable living projects<br>🔹 Built with **React**, **Node.js**, **MongoDB**, and **TailwindCSS**<br>🔹 [GitHub Repo](https://github.com/username/Greenmany) | 🔹 Autonomous, goal-driven AI agents capable of task automation<br>🔹 Focused on real-world problem solving and research assistance<br>🔹 [GitHub Repo](https://github.com/username/AgenticAI) |
+| Project | Description | GitHub Repo |
+|---------|-------------|-------------|
+| **CloudDesk** | 🔹 Free & open-source self-hosted remote team management tool<br>🔹 Focused on collaboration and productivity | [GitHub Repo](https://github.com/username/CloudDesk) |
+| **NVRAGDB** | 🔹 High-speed, non-vectorized Retriever-Augmented Generation (RAG) database<br>🔹 Optimized for fast retrieval and integration with AI workflows | [GitHub Repo](https://github.com/username/NVRAGDB) |
+| **MyDudeAI** | 🔹 Self-hosted AI companion maker<br>🔹 Allows users to create personalized AI companions for various tasks | [GitHub Repo](https://github.com/username/MyDudeAI) |
+| **Blank Space 1** | 🔹 Coming soon | TBD |
+| **Blank Space 2** | 🔹 Coming soon | TBD |
+| **Blank Space 3** | 🔹 Coming soon | TBD |
 
-| FinesteinLM | Greenmany | Agentic AI Bots |
-|-------------|-----------|----------------|
-| 🔹 Domain-specific AI model optimized for efficiency and precision<br>🔹 Implements LoRA & QLoRA for faster training and smaller footprint<br>🔹 [GitHub Repo](https://github.com/username/FinesteinLM) | 🔹 Full-stack web platform for sustainable living projects<br>🔹 Built with **React**, **Node.js**, **MongoDB**, and **TailwindCSS**<br>🔹 [GitHub Repo](https://github.com/username/Greenmany) | 🔹 Autonomous, goal-driven AI agents capable of task automation<br>🔹 Focused on real-world problem solving and research assistance<br>🔹 [GitHub Repo](https://github.com/username/AgenticAI) |
 
 ## 🛠 Side Hobbies
 

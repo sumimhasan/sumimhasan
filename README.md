@@ -1,4 +1,4 @@
-  # Console.log(This.myslef); [![Visit My Site](https://img.shields.io/badge/Visit%20My%20Site-🌐-blue?style=for-the-badge)](https://sumimhasansite.vercel.app/)
+  # Console.log.This.myslef; [![My Site](https://img.shields.io/badge/Visit%20My%20Site-🌐-blue?style=for-the-badge)](https://sumimhasansite.vercel.app/)
 
 Hey! I'm **Sumim Hasan** — aka **Joy** — from **Bangladesh**.  
 I’m diving deep into the worlds of **Artificial Intelligence** and **Web Development**.  
@@ -31,6 +31,10 @@ Clever solutions and building tech that *actually matters* — that’s my game.
 
 
 ## 📂 Favorite / Key Projects
+
+| FinesteinLM | Greenmany | Agentic AI Bots |
+|-------------|-----------|----------------|
+| 🔹 Domain-specific AI model optimized for efficiency and precision<br>🔹 Implements LoRA & QLoRA for faster training and smaller footprint<br>🔹 [GitHub Repo](https://github.com/username/FinesteinLM) | 🔹 Full-stack web platform for sustainable living projects<br>🔹 Built with **React**, **Node.js**, **MongoDB**, and **TailwindCSS**<br>🔹 [GitHub Repo](https://github.com/username/Greenmany) | 🔹 Autonomous, goal-driven AI agents capable of task automation<br>🔹 Focused on real-world problem solving and research assistance<br>🔹 [GitHub Repo](https://github.com/username/AgenticAI) |
 
 | FinesteinLM | Greenmany | Agentic AI Bots |
 |-------------|-----------|----------------|

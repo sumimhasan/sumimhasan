@@ -1,4 +1,4 @@
-# About Myself
+# About Me
 
 Hey! I'm **Sumim Hasan** — aka **Joy** — from **Bangladesh**.  
 I’m diving deep into the worlds of **Artificial Intelligence** and **Web Development**.  

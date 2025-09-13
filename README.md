@@ -28,8 +28,10 @@ Clever solutions and building tech that *actually matters* — that’s my game.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-## 📈 GitHub Contributions
-![Sumim's Activity Graph](https://activity-graph.herokuapp.com/graph?username=sumimhasan&theme=react-dark&hide_border=true)
+## 📅 GitHub Contributions
+
+![Sumim's Contributions](https://activity-graph.herokuapp.com/graph?username=sumimhasan&theme=react-dark&hide_border=true)
+
 
 
 

@@ -1,4 +1,4 @@
-# Console.log(This.myslef);
+  # Console.log(This.myslef);
 
 Hey! I'm **Sumim Hasan** — aka **Joy** — from **Bangladesh**.  
 I’m diving deep into the worlds of **Artificial Intelligence** and **Web Development**.  
@@ -29,11 +29,32 @@ Clever solutions and building tech that *actually matters* — that’s my game.
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ---
+
+## 📂 Favorite / Key Projects
+
+### 1. **FinesteinLM**
+- 🔹 Domain-specific AI model optimized for efficiency and precision  
+- 🔹 Implements LoRA & QLoRA for faster training and smaller footprint  
+- 🔹 [GitHub Repo](https://github.com/username/FinesteinLM)
+
+### 2. **Greenmany**
+- 🔹 Full-stack web platform for sustainable living projects  
+- 🔹 Built with **React**, **Node.js**, **MongoDB**, and **TailwindCSS**  
+- 🔹 [GitHub Repo](https://github.com/username/Greenmany)
+
+### 3. **Agentic AI Bots**
+- 🔹 Autonomous, goal-driven AI agents capable of task automation  
+- 🔹 Focused on real-world problem solving and research assistance  
+- 🔹 [GitHub Repo](https://github.com/username/AgenticAI)
+
+---
+
 ## 🌐 Connect with Me
 - 🌍 **Website**: [sumimhasansite.vercel.app](https://sumimhasansite.vercel.app/)  
 - 💼 **Facebook**: [facebook.com/codewithjoy](https://www.facebook.com/codewithjoy)  
 - 🐦 **Twitter/X**: [@SumimHasan](https://x.com/SumimHasan)  
-- 📫 **Email**: `sumimhasanjoy@gmail.com`  
+- 📫 **Email**: `sumimhasanjoy@gmail.com`
+
 
 ---
 

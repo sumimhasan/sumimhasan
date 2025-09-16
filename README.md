@@ -45,7 +45,7 @@ Clever solutions and building tech that *actually matters* — that’s my game.
 | **CloudDesk** | 🔹 Free & open-source self-hosted remote team management tool<br>🔹 Focused on collaboration and productivity | [GitHub Repo](sk) |
 | **NVRAGDB** | 🔹 High-speed, non-vectorized Retriever-Augmented Generation (RAG) database<br>🔹 Optimized for fast retrieval and integration with AI workflows | [GitHub Repo](https://github.com/username/NVRAGDB) |
 | **MyDudeAI** | 🔹 Self-hosted AI companion maker<br>🔹 Allows users to create personalized AI companions for various tasks | [GitHub Repo](https://github.com/sumimhasan/MyDudeAI) |
-| **Blank Space 1** | 🔹 Coming soon | TBD |
+| **BizBot** | 🔹 a Chatbot for E-commerce store customer problems to product order all  | TBD |
 | **Blank Space 2** | 🔹 Coming soon | TBD |
 | **Blank Space 3** | 🔹 Coming soon | TBD |
 
